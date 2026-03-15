@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 Smoke to Ink Conversion System using Arduino UNO
+# 🌍 Smoke to Ink Conversion System using IOT
 
 ### *IoT-Powered Eco-Friendly Pollution Reduction & Ink Production*
 
