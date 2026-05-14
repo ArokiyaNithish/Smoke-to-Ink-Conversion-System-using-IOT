@@ -1,4 +1,4 @@
-[Review PPT Smoke to Ink Conversion System.pdf](https://github.com/user-attachments/files/27759757/Review.PPT.Smoke.to.Ink.Conversion.System.pdf)
+
 <div align="center">
 
 # 🌍 Smoke to Ink Conversion System using Arduino UNO
@@ -9,7 +9,7 @@
 [![Sensors](https://img.shields.io/badge/Sensor-MQ135-blue?style=for-the-badge)]()
 [![IoT](https://img.shields.io/badge/IoT-Embedded%20System-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/Internet_of_things)
 [![Sustainability](https://img.shields.io/badge/Sustainability-Green-brightgreen?style=for-the-badge)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Apache License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 
 > 🚀 **An innovative environmental initiative** that transforms harmful air pollutants—particularly soot from vehicle and industrial emissions—into usable ink products. This project aims to solve the twin problems of air pollution and harmful chemical use in ink production.
 
