@@ -1,3 +1,4 @@
+[Review PPT Smoke to Ink Conversion System.pdf](https://github.com/user-attachments/files/27759757/Review.PPT.Smoke.to.Ink.Conversion.System.pdf)
 <div align="center">
 
 # 🌍 Smoke to Ink Conversion System using Arduino UNO
@@ -318,6 +319,8 @@ See [LICENSE](LICENSE) for full details.
 3. Arduino UNO Official Documentation
 4. Sustainable Cities and Communities (UN SDG Context)
 5. [Report of Smoke to Ink Conversion System.pdf](https://github.com/user-attachments/files/27758363/Report.of.Smoke.to.Ink.Conversion.System.pdf)
+6. [Review PPT Smoke to Ink Conversion System.pdf](https://github.com/user-attachments/files/27759759/Review.PPT.Smoke.to.Ink.Conversion.System.pdf)
+
 ---
 ```
 NOTICE
