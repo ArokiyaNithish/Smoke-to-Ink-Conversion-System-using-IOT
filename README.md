@@ -126,7 +126,8 @@ Smoke to Ink Conversion System using Arduino UNO/
 
 ## 📐 Block Diagram
 
-![Block Diagram](Block%20Diagram%20of%20Smoke%20to%20Ink%20Conversion%20System.png)
+<img width="554" height="434" alt="Block Diagram of Smoke to Ink Conversion System" src="https://github.com/user-attachments/assets/e1d49413-be34-42d2-9ecf-0897a4548f9a" />
+
 
 <img width="470" height="190" alt="Working Block Diagram of Smoke to Ink Conversion System" src="https://github.com/user-attachments/assets/20c0711c-ea4f-4e5a-af4a-e723a4201331" />
 
