@@ -127,6 +127,9 @@ Smoke to Ink Conversion System using Arduino UNO/
 
 ![Block Diagram](Block%20Diagram%20of%20Smoke%20to%20Ink%20Conversion%20System.png)
 
+<img width="470" height="190" alt="Working Block Diagram of Smoke to Ink Conversion System" src="https://github.com/user-attachments/assets/20c0711c-ea4f-4e5a-af4a-e723a4201331" />
+
+
 ---
 
 ## 🔬 How It Works — System Flowchart
@@ -229,7 +232,13 @@ if (sensorValue > baseline + 30) {
 ### Working Prototype Setup Image
 *(Demonstrates a smart city simulation converting vehicle fumes to ink in real-time)*
 
-![Demo Application](Demo%20Video%20of%20Smoke%20to%20Ink%20Conversion%20System.jpg)
+<img width="1600" height="944" alt="Demo Video of Smoke to Ink Conversion System" src="https://github.com/user-attachments/assets/3c636262-9198-4d82-aeff-4b724fc8e2ac" />
+
+
+
+
+https://github.com/user-attachments/assets/a376d4da-4e3d-4d9f-b997-b48b6855129d
+
 
 ---
 
@@ -250,17 +259,55 @@ if (sensorValue > baseline + 30) {
 - [ ] **Deeper Chemical Processing** to generate varied opacity and shades of carbon ink autonomously.
 
 ---
+## 📄 License
+This project is licensed under the Apache License 2.0 — you are free to use, modify, and distribute this code with proper attribution and compliance with the license terms.
 
-## 👨‍💻 Authors & Team
+```text
+📄 License
+This project is licensed under the Apache License 2.0 — you are free to use, modify, and distribute this code with proper attribution and compliance with the license terms.
 
-**Team Solvix**
-- **Arokiya Nithish J**
-- **Ishwarya M**
-- **Affiliation:** Vel Tech University
-- **Theme:** Smart Cities / Smart Automation
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
 
-**Contact:**
+Copyright (c) 2026 Arokiya Nithish J
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+```
+http://www.apache.org/licenses/LICENSE-2.0  
+```
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+```
+
+
+See [LICENSE](LICENSE) for full details.
+
+---
+
+## 👨‍💻 Author & Acknowledgments
+
+### Author
+
+**Arokiya Nithish J & Ishwarya M**
+- Role: IOT Develeoper and Project Designer
+- 📅 Year: 2024
+- 🎓 Engineering Student | IoT & Embedded Systems Enthusiast
+- 💼 Domain: IoT | Arduino | RFID | Embedded C
+
+**Contacts**
 - GitHub: [@ArokiyaNithish](https://github.com/ArokiyaNithish)
+- LinkedIn: [@Arokiya Nithish J](https://www.linkedin.com/in/arokiya-nithishj/)
+- Email: arokiyanithishj@gmail.com
+- Portfolio: [arokiyanithish.github.io/portfolio](https://arokiyanithish.github.io/portfolio/)
 
 ---
 
@@ -270,9 +317,52 @@ if (sensorValue > baseline + 30) {
 2. *Paper to Pixel Smoke to Ink Conversion System* (Presentation)
 3. Arduino UNO Official Documentation
 4. Sustainable Cities and Communities (UN SDG Context)
+5. [Report of Smoke to Ink Conversion System.pdf](https://github.com/user-attachments/files/27758363/Report.of.Smoke.to.Ink.Conversion.System.pdf)
+---
+```
+NOTICE
 
+Project Name: Smart Shopping Trolley with Billing System using IOT
+Copyright (c) 2026 Arokiya Nithish J
+
+This product includes software developed by Arokiya Nithish J.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---
+
+Modifications
+
+If you have modified this project, you should add a statement here such as:
+
+"This project has been modified by <Your Name/Organization> on <Date>.
+Changes include: <brief description of changes>"
+
+---
+
+END OF Notice
+```
+---
 <div align="center">
 
-🌟 **Empowering a Greener Future through Embedded Logic and Chemistry!**
+For support, email arokiyanithishj@gmail.com or open an [issue](https://github.com/ArokiyaNithish/Smart-Shopping-Trolley/issues) on GitHub.
+
+### 🌟 If this project helped you — please give it a ⭐ Star on GitHub!
+
+**#IoT #Arduino #RFID #SmartShopping #EmbeddedSystems #OpenSource**
+
+*Made with ❤️ and Arduino by Arokiya Nithish*
+
+*© 2026 — Arokiya Nithish J*
 
 </div>
